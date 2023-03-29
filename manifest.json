@@ -1,0 +1,10 @@
+{
+    "name": "Meu Aplicativo",
+    "short_name": "Meu App",
+    "description": "Um aplicativo web para buscar informações de ações.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a1a1a"
+  }
+  
